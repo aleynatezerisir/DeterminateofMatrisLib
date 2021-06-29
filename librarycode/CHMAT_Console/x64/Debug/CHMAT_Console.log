@@ -1,0 +1,10 @@
+﻿  chmat.cpp
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(61,49): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(89,24): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double'
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(90,44): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(94,24): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double'
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(95,44): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Kullanıcı\Desktop\github\cem\Homework2\CHMAT_Console\chmat.cpp(129,23): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  CHMAT_Console.cpp
+  Kod Üretiliyor...
+  CHMAT_Console.vcxproj -> C:\Users\Kullanıcı\Desktop\github\cem\Homework2\x64\Debug\CHMAT_Console.exe
